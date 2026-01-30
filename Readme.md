@@ -68,4 +68,7 @@ main.py: API Design & Allocation Algorithm.
 simulation.py: One-day simulation with 3 doctors.
 
 
+
 README.md: Documentation on logic, edge cases, and failures.
+
+.......................................................................... YOU CAN VIEW THE WEB-PAGE ON http://127.0.0.1:8000/docs ..................................................................................
